@@ -23,6 +23,15 @@ Manage daily tasks directly from your terminal — add, list, and remove tasks e
 
 ---
 
+## Key Learnings
+
+- learned to manage state persistence without DB
+- practiced modular coding instead of writing everything in one file
+- understood how to structure small CLI projects
+- improved confidence in moving from theory → working software
+
+---
+
 ## 🧰 Tech Stack
 
 | Technology | Purpose |
@@ -49,3 +58,20 @@ npm install
 node app.js add "Go to gym"
 node app.js list
 node app.js remove 2
+```
+
+---
+
+## Future Improvements
+
+- switch to Fastify API version
+- add Postgres
+- add authentication
+- store tasks per user
+
+---
+
+## Contact
+
+- [Linkedin](https://www.linkedin.com/in/nikhil0raj/)
+- [Email](nikhil4rajj@gmail.com)
