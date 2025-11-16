@@ -16,6 +16,6 @@ switch(command) {
     default:
         console.log('Usage:');
         console.log('  node app.js add "Task Name"');
-        console.log('  node app.js list');
+        console.log('  node app.js list'); //Print list
         console.log('  node app.js remove <taskId>');
 }
